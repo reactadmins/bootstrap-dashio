@@ -1,0 +1,25 @@
+@import "./variable.scss";
+.navbar_bg {
+    position: fixed;
+    top: 0;
+    width: -webkit-fill-available;
+    z-index: 999999;
+    height: 80px;
+    border-bottom: 1px solid var(--border-color);
+
+    &[data-bg-color="white"] {
+        background-color: #fff;
+    }
+    &[data-bg-color="black"] {
+        background-color: #292b35;
+    }
+    &[data-bg-color="red"] {
+        background-color: #f44336;
+    }
+}
+
+body[data-theme="dark"] {
+    .navbar_bg {
+        background-color: var(--bg-content) !important;
+    }
+}
