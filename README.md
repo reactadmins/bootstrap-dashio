@@ -1,15 +1,15 @@
 <h1 align="center">
-  <a href="https://demo.reactadmin.com/bootstrap/dashio" title="Dashio">Dashio Dashboard Bootstrap version</a>
+  <a href="https://demo.reactadmin.com/bootstrap/dashio" title="React Admin">Dashio Dashboard Bootstrap version</a>
 </h1>
 
-![Dashio dashboard template preview](https://pixarlabs-bucket.s3.us-west-1.amazonaws.com/wp-content/uploads/2024/04/06135308/Dashio-Template.png)
+![Sufee admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/sufee-free-modern-admin-dashboard-template.jpg)
 
 is an admin dashboard template designed to be beautiful and simple it's fully responsive. It comes with a large collection of components that will offer you multiple possibilities to create the app that best suits your needs. It can be used to create admin panels, project management systems, web application backends, CMS or CRM.
 
 The product presents a large suite of front-end developer tools that can help you start your project. We built it by thinking about what you actually need in a dashboard.
 Admin Bootstrap Dashboard React has multiple handpicked and optimized components . Everything is designed to fit together. As you will be able to see, the React Admin dashboard you can access is a customization of this product.
 
-It comes with 3 filter colors for the top navbar abd sidebar (`white`, `black`, `red`) and an option to have a background image.
+It comes with 3 filter colors for the top navbar abd sidebar (`white`, `black`, `red`) and an option to have a background image. 4 layout variations (`vertical`, `horizontal`, `combo`, `dual nav`) to change the layout design.
 
 -   <a title="demo-site" href="https://demo.reactadmin.com/bootstrap/dashio"><strong>Demo Site</strong></a>
     &#x2022;
@@ -102,7 +102,7 @@ run development server
 Within the download you'll find the following directories and files:
 
 ```
-Dashio Dashboard Bootstrap
+React Admin Dashboard Bootstrap
 
 .
 ├── public
@@ -125,7 +125,6 @@ Dashio Dashboard Bootstrap
 │   │   │   ├── ProfileCard.module.scsss
 │   │   │   ├── SearchBar.module.scsss
 │   │   │   ├── Sidebar.module.scsss
-│   │   │   ├── SidebarBgWrapper.module.scsss
 │   │   │   ├── SocialButton.module.scsss
 │   │   │   ├── SocialCounter.module.scss.scsss
 │   │   │   ├── SocialStats.module.scsss
@@ -183,8 +182,6 @@ Dashio Dashboard Bootstrap
 │   │   │   └── SearchBar.jsx
 │   │   ├── Sidebar
 │   │   │   ├── Sidebar.jsx
-│   │   │   ├── SidebarBgWrapper.jsx
-│   │   │   └── SidebarMenu.jsx
 │   │   ├── SocialButton
 │   │   │   └── SocialButton.jsx
 │   │   ├── SocialCounter
